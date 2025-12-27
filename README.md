@@ -57,7 +57,7 @@ python src/evaluation.py
 │                     RAG SYSTEM ARCHITECTURE                  │
 └─────────────────────────────────────────────────────────────┘
 
-[Policy Documents (PDF)] 
+[Policy Documents ] 
          ↓
     ┌────────────────────┐
     │ Document Loader    │ ← document_loader.py
@@ -89,7 +89,7 @@ python src/evaluation.py
 **Key Components:**
 - **Document Processing**: document → Text extraction → Chunking
 - **Embedding Pipeline**: Text → Vector embeddings → ChromaDB storage
-- **Retrieval**: Query → Similarity search → Top-k relevant chunks
+- **Retrieval**: Query → Similarity search → multi-query by llm -> Top-k relevant chunks
 - **Generation**: Context + Query + Prompt → LLM → Grounded answer
 
 ---
