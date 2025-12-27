@@ -31,12 +31,6 @@ CRITICAL RULES:
 4. Acknowledge uncertainty: If information is partial or unclear, state this clearly
 5. Use structured format: Use headings, bullet points, and clear organization
 
-CONFIDENCE LEVELS:
-- "high": Question fully answered with clear information from context
-- "medium": Question partially answered, some details missing or unclear
-- "low": Very limited information available, answer is incomplete
-- "no_information": No relevant information found in the documents
-
 RESPONSE FORMAT:
 - Start with a direct answer (if possible)
 - Provide relevant details in bullet points
@@ -53,7 +47,7 @@ RETRIEVED CONTEXT:
 AVAILABLE SOURCES:
 {sources_info}
 
-Please answer the question based ONLY on the context above. Follow these guidelines:
+answer the question based ONLY on the context above. Follow these guidelines:
 
 1. If the context fully answers the question:
    - Provide a clear, comprehensive answer
@@ -137,6 +131,13 @@ STEP 3 - Quality Checks:
 - Check that confidence level matches information availability
 
 REMEMBER:  Every statement must exist in context. Accuracy > completeness. When uncertain, say "I don't know"."""
+
+
+
+
+
+
+
 
 ##################################################
 # PROMPT COMPARISON
