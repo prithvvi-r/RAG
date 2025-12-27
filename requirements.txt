@@ -1,0 +1,25 @@
+# Core Dependencies
+python-dotenv
+tiktoken
+openai
+pydantic
+
+# LangChain Ecosystem
+langchain
+langchain-community
+langchain-core
+
+# Vector Store & Embeddings
+chromadb
+
+# Document Processing
+PyPDF2
+pypdf
+
+# Utilities
+pathlib
+typing-extensions
+
+# Optional (if using these features)
+numpy
+pandas
