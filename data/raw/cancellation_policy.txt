@@ -1,0 +1,176 @@
+This Cancellation Policy defines the conditions under which orders may be cancelled by customers or by the company, along with applicable timelines and refund handling.
+
+---
+
+## 1. Scope of Cancellation Policy
+
+This policy applies to:
+
+* Physical products ordered through the platform
+* Services that explicitly allow cancellation
+
+This policy does **not** apply to:
+
+* Digital products once access is granted
+* Customized or made-to-order items
+* Products marked as “Non-Cancellable”
+
+---
+
+## 2. Cancellation by Customer
+
+### 2.1 Pre-Shipment Cancellation
+
+Customers may cancel an order **before it is shipped** by:
+
+* Logging into their account
+* Navigating to **My Orders**
+* Selecting the order and choosing “Cancel”
+
+Pre-shipment cancellations are **free of charge**.
+
+---
+
+### 2.2 Post-Shipment Cancellation
+
+Once an order has been shipped:
+
+* Cancellation is **not permitted**
+* Customers must follow the **Return and Refund Policy** instead
+
+Shipment status is final once updated by the logistics partner.
+
+---
+
+## 3. Cancellation by Company
+
+The company reserves the right to cancel an order under the following circumstances:
+
+* Product is out of stock
+* Pricing or listing errors are identified
+* Payment verification fails
+* Suspected fraudulent or unauthorized transactions
+* Regulatory or compliance restrictions
+* Delivery location is non-serviceable
+
+Customers are notified promptly if an order is cancelled by the company.
+
+---
+
+## 4. Refunds for Cancelled Orders
+
+### 4.1 Customer-Initiated Cancellation (Pre-Shipment)
+
+* Full refund is issued to the original payment method
+* Refund initiation occurs within **3–5 business days**
+
+---
+
+### 4.2 Company-Initiated Cancellation
+
+* Full refund is issued automatically
+* Refund is processed regardless of payment method used
+
+---
+
+## 5. Partial Cancellations
+
+For orders containing multiple items:
+
+* Customers may cancel individual items **before shipment**
+* Shipped items cannot be partially cancelled
+
+Refunds apply only to cancelled items.
+
+---
+
+## 6. Cancellation of Services
+
+Cancellation terms for services vary and are:
+
+* Clearly mentioned on the service detail page
+* Subject to service-specific timelines and conditions
+
+Service cancellations outside the allowed window may not be eligible for refunds.
+
+---
+
+## 7. Non-Cancellable Orders
+
+Orders cannot be cancelled if:
+
+* The order status is “Shipped” or “Out for Delivery”
+* The product is customized or personalized
+* The product is labeled as non-cancellable
+
+Such orders must follow return or replacement procedures if applicable.
+
+---
+
+## 8. Failed Delivery Cancellations
+
+If an order is returned due to:
+
+* Multiple failed delivery attempts
+* Incorrect address provided by the customer
+
+The order may be cancelled automatically.
+
+Refund eligibility depends on:
+
+* Product type
+* Return condition
+* Reason for delivery failure
+
+Shipping charges may be deducted where applicable.
+
+---
+
+## 9. Cancellation Confirmation
+
+Upon successful cancellation:
+
+* A confirmation message is sent via email or SMS
+* Order status is updated in the user account
+
+Lack of confirmation indicates the cancellation was not completed.
+
+---
+
+## 10. Disputes Related to Cancellation
+
+Customers may raise disputes if:
+
+* Refund is not received within the stated timeline
+* Cancellation request was incorrectly rejected
+
+Disputes must be raised within **14 days** of the cancellation decision.
+
+---
+
+## 11. Abuse of Cancellation Policy
+
+The company reserves the right to:
+
+* Restrict cancellation privileges
+* Suspend accounts exhibiting repeated misuse or abuse
+
+Such actions are taken after internal review.
+
+---
+
+## 12. Policy Modifications
+
+The company may:
+
+* Update this Cancellation Policy at any time
+* Apply revised policies to future orders
+
+The latest version is always available on the platform.
+
+---
+
+### End of Cancellation Policy
+
+---
+

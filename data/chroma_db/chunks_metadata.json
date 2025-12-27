@@ -1,0 +1,474 @@
+[
+  {
+    "chunk_id": "cancellation_policy_s0_c0",
+    "text": "Scope of Cancellation Policy\n\nThis policy applies to:\n\n* Physical products ordered through the platform\n* Services that explicitly allow cancellation\n\nThis policy does **not** apply to:\n\n* Digital products once access is granted\n* Customized or made-to-order items\n* Products marked as \u201cNon-Cancellable\u201d\n\n---",
+    "doc_type": "cancellation_policy",
+    "filename": "cancellation_policy.txt",
+    "section_title": "Scope of Cancellation Policy",
+    "token_count": 62
+  },
+  {
+    "chunk_id": "cancellation_policy_s1_c0",
+    "text": "1 PreShipment Cancellation\n\nCustomers may cancel an order **before it is shipped** by:\n\n* Logging into their account\n* Navigating to **My Orders**\n* Selecting the order and choosing \u201cCancel\u201d\n\nPre-shipment cancellations are **free of charge**.\n\n---",
+    "doc_type": "cancellation_policy",
+    "filename": "cancellation_policy.txt",
+    "section_title": "1 PreShipment Cancellation",
+    "token_count": 58
+  },
+  {
+    "chunk_id": "cancellation_policy_s2_c0",
+    "text": "2 PostShipment Cancellation\n\nOnce an order has been shipped:\n\n* Cancellation is **not permitted**\n* Customers must follow the **Return and Refund Policy** instead\n\nShipment status is final once updated by the logistics partner.\n\n---",
+    "doc_type": "cancellation_policy",
+    "filename": "cancellation_policy.txt",
+    "section_title": "2 PostShipment Cancellation",
+    "token_count": 49
+  },
+  {
+    "chunk_id": "cancellation_policy_s3_c0",
+    "text": "Cancellation by Company\n\nThe company reserves the right to cancel an order under the following circumstances:\n\n* Product is out of stock\n* Pricing or listing errors are identified\n* Payment verification fails\n* Suspected fraudulent or unauthorized transactions\n* Regulatory or compliance restrictions\n* Delivery location is non-serviceable\n\nCustomers are notified promptly if an order is cancelled by the company.\n\n---",
+    "doc_type": "cancellation_policy",
+    "filename": "cancellation_policy.txt",
+    "section_title": "Cancellation by Company",
+    "token_count": 74
+  },
+  {
+    "chunk_id": "cancellation_policy_s4_c0",
+    "text": "1 CustomerInitiated Cancellation (PreShipment)\n\n* Full refund is issued to the original payment method\n* Refund initiation occurs within **3\u20135 business days**\n\n---",
+    "doc_type": "cancellation_policy",
+    "filename": "cancellation_policy.txt",
+    "section_title": "1 CustomerInitiated Cancellation (PreShipment)",
+    "token_count": 36
+  },
+  {
+    "chunk_id": "cancellation_policy_s5_c0",
+    "text": "2 CompanyInitiated Cancellation\n\n* Full refund is issued automatically\n* Refund is processed regardless of payment method used\n\n---",
+    "doc_type": "cancellation_policy",
+    "filename": "cancellation_policy.txt",
+    "section_title": "2 CompanyInitiated Cancellation",
+    "token_count": 26
+  },
+  {
+    "chunk_id": "cancellation_policy_s6_c0",
+    "text": "Partial Cancellations\n\nFor orders containing multiple items:\n\n* Customers may cancel individual items **before shipment**\n* Shipped items cannot be partially cancelled\n\nRefunds apply only to cancelled items.\n\n---",
+    "doc_type": "cancellation_policy",
+    "filename": "cancellation_policy.txt",
+    "section_title": "Partial Cancellations",
+    "token_count": 39
+  },
+  {
+    "chunk_id": "cancellation_policy_s7_c0",
+    "text": "Cancellation of Services\n\nCancellation terms for services vary and are:\n\n* Clearly mentioned on the service detail page\n* Subject to service-specific timelines and conditions\n\nService cancellations outside the allowed window may not be eligible for refunds.\n\n---",
+    "doc_type": "cancellation_policy",
+    "filename": "cancellation_policy.txt",
+    "section_title": "Cancellation of Services",
+    "token_count": 45
+  },
+  {
+    "chunk_id": "cancellation_policy_s8_c0",
+    "text": "NonCancellable Orders\n\nOrders cannot be cancelled if:\n\n* The order status is \u201cShipped\u201d or \u201cOut for Delivery\u201d\n* The product is customized or personalized\n* The product is labeled as non-cancellable\n\nSuch orders must follow return or replacement procedures if applicable.\n\n---",
+    "doc_type": "cancellation_policy",
+    "filename": "cancellation_policy.txt",
+    "section_title": "NonCancellable Orders",
+    "token_count": 56
+  },
+  {
+    "chunk_id": "cancellation_policy_s9_c0",
+    "text": "Failed Delivery Cancellations\n\nIf an order is returned due to:\n\n* Multiple failed delivery attempts\n* Incorrect address provided by the customer\n\nThe order may be cancelled automatically.\n\nRefund eligibility depends on:\n\n* Product type\n* Return condition\n* Reason for delivery failure\n\nShipping charges may be deducted where applicable.\n\n---",
+    "doc_type": "cancellation_policy",
+    "filename": "cancellation_policy.txt",
+    "section_title": "Failed Delivery Cancellations",
+    "token_count": 64
+  },
+  {
+    "chunk_id": "cancellation_policy_s10_c0",
+    "text": "Cancellation Confirmation\n\nUpon successful cancellation:\n\n* A confirmation message is sent via email or SMS\n* Order status is updated in the user account\n\nLack of confirmation indicates the cancellation was not completed.\n\n---",
+    "doc_type": "cancellation_policy",
+    "filename": "cancellation_policy.txt",
+    "section_title": "Cancellation Confirmation",
+    "token_count": 40
+  },
+  {
+    "chunk_id": "cancellation_policy_s11_c0",
+    "text": "Disputes Related to Cancellation\n\nCustomers may raise disputes if:\n\n* Refund is not received within the stated timeline\n* Cancellation request was incorrectly rejected\n\nDisputes must be raised within **14 days** of the cancellation decision.\n\n---",
+    "doc_type": "cancellation_policy",
+    "filename": "cancellation_policy.txt",
+    "section_title": "Disputes Related to Cancellation",
+    "token_count": 50
+  },
+  {
+    "chunk_id": "cancellation_policy_s12_c0",
+    "text": "Abuse of Cancellation Policy\n\nThe company reserves the right to:\n\n* Restrict cancellation privileges\n* Suspend accounts exhibiting repeated misuse or abuse\n\nSuch actions are taken after internal review.\n\n---",
+    "doc_type": "cancellation_policy",
+    "filename": "cancellation_policy.txt",
+    "section_title": "Abuse of Cancellation Policy",
+    "token_count": 39
+  },
+  {
+    "chunk_id": "cancellation_policy_s13_c0",
+    "text": "Policy Modifications\n\nThe company may:\n\n* Update this Cancellation Policy at any time\n* Apply revised policies to future orders\n\nThe latest version is always available on the platform.\n\n---",
+    "doc_type": "cancellation_policy",
+    "filename": "cancellation_policy.txt",
+    "section_title": "Policy Modifications",
+    "token_count": 36
+  },
+  {
+    "chunk_id": "cancellation_policy_s14_c0",
+    "text": "End of Cancellation Policy\n\n---",
+    "doc_type": "cancellation_policy",
+    "filename": "cancellation_policy.txt",
+    "section_title": "End of Cancellation Policy",
+    "token_count": 7
+  },
+  {
+    "chunk_id": "Nvidia_s0_c0",
+    "text": "Overview\n\nNvidia Corporation (/\u025bn\u02c8v\u026adi\u0259/ en-VID-ee-\u0259) is an American technology company headquartered in Santa Clara, California. Founded in 1993 by Jensen Huang (president and CEO), Chris Malachowsky, and Curtis Priem, it develops graphics processing units (GPUs), systems on chips (SoCs), and application programming interfaces (APIs) for data science, high-performance computing, and mobile and automotive applications.\n\nOriginally focused on GPUs for video gaming, Nvidia broadened their use into other markets, including artificial intelligence (AI), professional visualization, and supercomputing. The company's product lines include GeForce GPUs for gaming and creative workloads, and professional GPUs for edge computing, scientific research, and industrial applications. As of the first quarter of 2025, Nvidia held a 92% share of the discrete desktop and laptop GPU market.\n\nMarket Dominance and AI Boom\n\nIn the early 2000s, the company invested over a billion dollars to develop CUDA, a software platform and API that enabled GPUs to run massively parallel programs for a broad range of compute-intensive applications. As a result, as of 2025, Nvidia controlled more than 80% of the market for GPUs used in training and deploying AI models, and provided chips for over 75% of the world's TOP500 supercomputers.\n\nIn 2023, Nvidia became the seventh U.S. company to reach a US$1 trillion valuation. In 2025, it became the first to surpass US$4 trillion in market capitalization, driven by rising global demand for data center hardware in the midst of the AI boom. For its strength, size and market capitalization, Nvidia has been selected to be one of Bloomberg's \"Magnificent Seven\".",
+    "doc_type": "Nvidia",
+    "filename": "Nvidia.txt",
+    "section_title": "Overview",
+    "token_count": 366
+  },
+  {
+    "chunk_id": "Nvidia_s1_c0",
+    "text": "Corporate Information\n\nCompany Type: Public\n\nTraded as: * Nasdaq: NVDA\n\nNasdaq-100 component\n\nDJIA component\n\nS&P 100 component\n\nS&P 500 component\n\nIndustry: Semiconductors\n\nFounded: April 5, 1993, in Sunnyvale, California, U.S.\n\nFounders: Jensen Huang, Chris Malachowsky, Curtis Priem\n\nHeadquarters: Santa Clara, California, U.S.\n\nArea served: Worldwide\n\nKey people: Jensen Huang (President and CEO), Bill Dally (Chief Scientist)\n\nRevenue: US$130.5 billion (FY25)\n\nOperating income: US$81.5 billion (FY25)\n\nNet income: US$72.9 billion (FY25)\n\nTotal assets: US$111.6 billion (FY25)\n\nTotal equity: US$79.3 billion (FY25)\n\nNumber of employees: 36,000 (FY25)\n\nWebsite: nvidia.com",
+    "doc_type": "Nvidia",
+    "filename": "Nvidia.txt",
+    "section_title": "Corporate Information",
+    "token_count": 198
+  },
+  {
+    "chunk_id": "Nvidia_s2_c0",
+    "text": "History\n\n3.1 Founding (1993)\n\nNvidia was founded on April 5, 1993, by Jensen Huang, a Taiwanese-American electrical engineer previously at LSI Logic and AMD; Chris Malachowsky, an engineer from Sun Microsystems; and Curtis Priem, formerly of IBM and Sun Microsystems. In late 1992, the three men agreed to start the company in a meeting at a Denny's roadside diner on Berryessa Road in East San Jose.\n\nThe founders envisioned graphics-based processing as the best trajectory for tackling challenges that had eluded general-purpose computing methods. Video games served as their \"killer app\"\u2014a flywheel to reach large markets funding huge R&D to solve massive computational problems. The company was born with $40,000 in the bank and subsequently received $20 million of venture capital funding from Sequoia Capital and others.\n\n3.2 The Company Name\n\nNvidia initially had no name. Early ideas included \"Primal Graphics,\" \"Huaprimal,\" and \"NVision\" (which was already taken by a toilet paper manufacturer). The name \"Nvidia\" comes from \"invidia,\" the Latin word for \"envy.\"\n\n3.3 First Graphics Accelerator (NV1)\n\nNvidia's first graphics accelerator, the NV1, was designed to process quadrilateral primitives. However, when Microsoft introduced DirectX, it chose to support only triangle primitives. Consequently, the NV1 failed to gain traction.\n\n3.4 Partnership with Sega and Financial Crisis\n\nNvidia entered a partnership with Sega for the Dreamcast console but realized their technology was lagging. Sega's president, Shoichiro Irimajiri, decided to choose another vendor but persuaded Sega's management to invest $5 million into Nvidia. This funding \"gave the company six months to live.\" In 1996, Huang laid off more than half the staff, focusing on a triangle-optimized product: the RIVA 128.\n\n3.5 The Pivot and Public Offering (1999)\n\nBy August 1997, Nvidia had only enough money for one month's payroll. This gave rise to the unofficial motto: \"Our company is thirty days from going out of business.\" However, Nvidia sold a million RIVA 128 units within four months.\n\nNvidia went public on January 22, 1999. Later that year, it released the GeForce 256 (NV10), marketed as the world's first GPU, introducing onboard transformation and lighting (T&L).\n\n3.6 Acquisitions and Early 2000s Growth\n\n2000: Acquired assets of rival 3dfx.\n\n2001: Selected to replace Enron in the S&P 500.\n\n2002: Acquired Exluna.\n\n2003: Acquired MediaQ for $70 million.\n\n2004: Assisted Sony with the PlayStation 3 graphics processor (RSX); acquired iReady.\n\n2005: Acquired ULI Electronics.\n\n2006: Acquired Hybrid Graphics.",
+    "doc_type": "Nvidia",
+    "filename": "Nvidia.txt",
+    "section_title": "History",
+    "token_count": 603
+  },
+  {
+    "chunk_id": "Nvidia_s3_c0",
+    "text": "Eras of Development\n\n4.1 2007\u20132014: Diversification\n\nIn 2007, Forbes named Nvidia \"Company of the Year.\" Acquisitions included PortalPlayer and Ageia (developer of the PhysX engine). During this era, the company faced class action lawsuits over \"abnormal failure rates\" in mobile chipsets, reaching a settlement in 2010.\n\n2011: Released Tegra 3, the first quad-core mobile CPU.\n\n2013: Unveiled Tegra 4 and the Nvidia Shield handheld console.\n\n2014: Diversified into gaming, automotive electronics, and mobile devices.\n\n4.2 2016\u20132018: Pascal and AI\n\nNvidia unveiled the GeForce 10 series based on the Pascal microarchitecture. Partnerships with Toyota and Baidu focused on AI platforms for autonomous vehicles.\n\n2017: Released Titan V.\n\n2018: Integrated Tesla P4 cards into Google Cloud AI; released RTX 2080.\n\nMac Driver Dispute: A rift formed between Apple and Nvidia regarding macOS Mojave drivers, leading to Apple users having to switch to AMD Radeon cards.\n\n4.3 2019: Acquisition of Mellanox\n\nNvidia announced a $6.9 billion deal to buy Mellanox Technologies to expand its footprint in high-performance computing.\n\n4.4 2020\u20132023: The AI Shift\n\n2020: Acquired Cumulus Networks; announced the Ampere GPU architecture.\n\nArm Takeover Attempt: Nvidia announced a $40 billion deal to buy Arm from SoftBank, but the transaction was terminated in 2022 due to \"significant regulatory challenges.\"\n\nInfrastructure: Launched the Cambridge-1 supercomputer in 2021; opened new headquarters buildings \"Endeavor\" and \"Voyager.\"\n\n4.5 2024\u20132025: The Blackwell Era and $4 Trillion Mark\n\nBlackwell: In March 2024, Nvidia announced the Blackwell microarchitecture.\n\nValuation Milestones: Surpassed $2 trillion in March 2024 and $4 trillion in July 2025.\n\nDeepSeek Impact: In January 2025, Nvidia saw a $600 billion one-day loss in market cap after the Chinese AI startup DeepSeek released an advanced model at a significantly lower cost.\n\nGlobal Demand: By late 2024, Morgan Stanley reported the entire 2025 production of Blackwell chips was sold out.",
+    "doc_type": "Nvidia",
+    "filename": "Nvidia.txt",
+    "section_title": "Eras of Development",
+    "token_count": 490
+  },
+  {
+    "chunk_id": "Nvidia_s4_c0",
+    "text": "Business Operations\n\n5.1 Fabless Manufacturing\n\nNvidia uses external suppliers (like TSMC) for all phases of manufacturing (wafer fabrication, assembly, and testing). This allows the company to focus resources on product design, quality assurance, and marketing.\n\n5.2 Leadership\n\nKey management (as of March 2024):\n\nJensen Huang: Founder, President, and CEO\n\nChris Malachowsky: Founder and Nvidia Fellow\n\nColette Kress: EVP and CFO\n\nJay Puri: EVP of Worldwide Field Operations\n\nDebora Shoquist: EVP of Operations\n\nTim Teter: EVP, General Counsel and Secretary\n\n5.3 Board of Directors\n\nThe board includes notable figures like Rob Burgess, Tench Coxe, John Dabiri, Persis Drell, Dawn Hudson, Ellen Ochoa, and Mark Stevens.\n\n5.4 Financial Data\n\nSales by Business Unit (2023):\n\nCompute & Networking: $47.4 billion (77.8%)\n\nGraphics: $13.5 billion (22.2%)\n\nSales by Region (2023):\n\nUnited States: 44.3%\n\nTaiwan: 22.0%\n\nChina: 16.9%\n\nOther: 16.8%\n\n10-Year Financials (2016\u20132025 Highlights):\n\n2016: $5.01B Revenue | $614M Net Income | 9,227 Employees\n\n2020: $10.92B Revenue | $2.80B Net Income | 13,775 Employees\n\n2025: $130.50B Revenue | $72.88B Net Income | 36,000 Employees",
+    "doc_type": "Nvidia",
+    "filename": "Nvidia.txt",
+    "section_title": "Business Operations",
+    "token_count": 332
+  },
+  {
+    "chunk_id": "Nvidia_s5_c0",
+    "text": "Products and Ecosystem\n\n6.1 Product Families\n\nGeForce: Consumer graphics\n\nRTX: Professional visual computing (replacing Quadro)\n\nTegra: SoCs for mobile devices\n\nTesla/Datacenter: GPUs for scientific fields (A100, H100)\n\nGrace: Datacenter/server CPU\n\nDrive: Autonomous vehicle hardware/software\n\nBlueField: Data processing units (DPUs)\n\nShield: Gaming hardware range\n\n6.2 GPU Technology Conference (GTC)\n\nGTC is a series of technical conferences started in 2009. Originally focused on GPUs, it has shifted to AI, deep learning, and self-driving cars.\n\n6.3 Deep Learning and Robotics\n\nDGX: A line of supercomputers for deep learning.\n\nOmniverse: A virtual environment for engineers.\n\nIsaac Sim: Simulations for training robots.\n\nIsaac GR00T N1: An open-source foundation model for humanoid robots.",
+    "doc_type": "Nvidia",
+    "filename": "Nvidia.txt",
+    "section_title": "Products and Ecosystem",
+    "token_count": 184
+  },
+  {
+    "chunk_id": "Nvidia_s6_c0",
+    "text": "OpenSource Software Support\n\nHistorically, Nvidia did not publish documentation for its hardware, causing tension with the Linux community (famously criticized by Linus Torvalds). However, in 2022, Nvidia began open-sourcing GPU kernel modules. In 2025, they announced CUDA support for RISC-V.",
+    "doc_type": "Nvidia",
+    "filename": "Nvidia.txt",
+    "section_title": "OpenSource Software Support",
+    "token_count": 65
+  },
+  {
+    "chunk_id": "Nvidia_s7_c0",
+    "text": "Controversies\n\n8.1 Maxwell Advertising (GTX 970)\n\nUsers discovered the GTX 970 could only access 3.5 GB of its 4 GB VRAM at high speeds. This led to a class-action lawsuit and a $30 refund for purchasers.\n\n8.2 GeForce Partner Program\n\nA controversial marketing program canceled in 2018 amid anti-competitive practice complaints.\n\n8.3 Hardware Unboxed Dispute\n\nIn 2020, Nvidia briefly banned a tech reviewer for focusing on rasterization instead of ray tracing, but quickly reversed the decision and apologized.\n\n8.4 SEC and Cryptomining\n\nNvidia paid $5.5 million in 2022 to settle charges that it failed to disclose how much of its gaming revenue growth was driven by cryptomining.\n\n8.5 Geopolitical Issues\n\nChina Export Restrictions: U.S. embargoes on advanced chips led Nvidia to create China-specific chips (A800, H20).\n\nH20 Production Halt: In August 2025, Nvidia halted H20 production after Chinese government warnings to domestic firms regarding security concerns.\n\nShanghai Facility: A proposed facility in Shanghai faced criticism from U.S. senators over national security issues.\n\n8.6 AI Regulation Dispute\n\nIn 2025, a public dispute occurred between Jensen Huang and Anthropic CEO Dario Amodei regarding AI regulation and industry \"safety\" concerns.",
+    "doc_type": "Nvidia",
+    "filename": "Nvidia.txt",
+    "section_title": "Controversies",
+    "token_count": 283
+  },
+  {
+    "chunk_id": "refund_policy_s0_c0",
+    "text": "Scope of the Refund Policy\n\nThis policy applies to:\n\n* Physical products purchased through the platform\n* Select services explicitly marked as refundable\n\nThis policy does **not** apply to:\n\n* Digital goods once accessed or downloaded\n* Gift cards, vouchers, or promotional credits\n* Items explicitly labeled as **\u201cNon-Refundable\u201d**\n\n---",
+    "doc_type": "refund_policy",
+    "filename": "refund_policy.txt",
+    "section_title": "Scope of the Refund Policy",
+    "token_count": 71
+  },
+  {
+    "chunk_id": "refund_policy_s1_c0",
+    "text": "Eligibility Criteria for Refund\n\nA refund request may be approved if **any one** of the following conditions is met:",
+    "doc_type": "refund_policy",
+    "filename": "refund_policy.txt",
+    "section_title": "Eligibility Criteria for Refund",
+    "token_count": 26
+  },
+  {
+    "chunk_id": "refund_policy_s2_c0",
+    "text": "1 Defective or Damaged Items\n\n* The product is physically damaged at the time of delivery\n* The product has manufacturing defects affecting usability\n\nEvidence such as photos or videos may be required.\n\n---",
+    "doc_type": "refund_policy",
+    "filename": "refund_policy.txt",
+    "section_title": "1 Defective or Damaged Items",
+    "token_count": 40
+  },
+  {
+    "chunk_id": "refund_policy_s3_c0",
+    "text": "2 Incorrect Item Delivered\n\n* A different product than what was ordered is delivered\n* Incorrect size, color, or variant is delivered\n\nThe item must remain unused and in original condition.\n\n---",
+    "doc_type": "refund_policy",
+    "filename": "refund_policy.txt",
+    "section_title": "2 Incorrect Item Delivered",
+    "token_count": 39
+  },
+  {
+    "chunk_id": "refund_policy_s4_c0",
+    "text": "3 Item Not as Described\n\n* The product significantly differs from the description on the product page\n* Key features or specifications are missing or incorrect\n\nMinor variations in color or packaging do not qualify.\n\n---",
+    "doc_type": "refund_policy",
+    "filename": "refund_policy.txt",
+    "section_title": "3 Item Not as Described",
+    "token_count": 41
+  },
+  {
+    "chunk_id": "refund_policy_s5_c0",
+    "text": "4 NonDelivery or Late Delivery\n\n* The order is not delivered within the promised delivery timeline\n* The shipment is marked delivered but not received by the customer\n\nVerification with the logistics partner may be required.\n\n---",
+    "doc_type": "refund_policy",
+    "filename": "refund_policy.txt",
+    "section_title": "4 NonDelivery or Late Delivery",
+    "token_count": 42
+  },
+  {
+    "chunk_id": "refund_policy_s6_c0",
+    "text": "NonRefundable Scenarios\n\nRefunds will **not** be issued in the following cases:\n\n* Change of mind after delivery\n* Incorrect address provided by the customer\n* Damage caused by misuse, negligence, or improper handling\n* Products returned without original packaging or accessories\n* Requests raised after the eligible refund window\n\n---",
+    "doc_type": "refund_policy",
+    "filename": "refund_policy.txt",
+    "section_title": "NonRefundable Scenarios",
+    "token_count": 66
+  },
+  {
+    "chunk_id": "refund_policy_s7_c0",
+    "text": "Refund Request Timeline\n\nCustomers must initiate a refund request within the following periods:\n\n Standard products : Within **7 days** of delivery \n Perishable / consumable items : Within **48 hours** of delivery \n Services : As specified on the service page \n\nRequests submitted outside these timelines may be automatically rejected.\n\n---",
+    "doc_type": "refund_policy",
+    "filename": "refund_policy.txt",
+    "section_title": "Refund Request Timeline",
+    "token_count": 63
+  },
+  {
+    "chunk_id": "refund_policy_s8_c0",
+    "text": "Refund Request Process\n\nTo request a refund, customers must:",
+    "doc_type": "refund_policy",
+    "filename": "refund_policy.txt",
+    "section_title": "Refund Request Process",
+    "token_count": 13
+  },
+  {
+    "chunk_id": "refund_policy_s9_c0",
+    "text": "Submit required supporting evidence (if applicable)\n\nOnce submitted, the request enters review status.\n\n---",
+    "doc_type": "refund_policy",
+    "filename": "refund_policy.txt",
+    "section_title": "Submit required supporting evidence (if applicable)",
+    "token_count": 18
+  },
+  {
+    "chunk_id": "refund_policy_s10_c0",
+    "text": "Review and Approval Process\n\n* Refund requests are reviewed within **2\u20134 business days**\n* Additional verification may be requested\n* The company reserves the right to approve or reject requests based on policy compliance\n\nDecisions are communicated via email or in-app notification.\n\n---",
+    "doc_type": "refund_policy",
+    "filename": "refund_policy.txt",
+    "section_title": "Review and Approval Process",
+    "token_count": 54
+  },
+  {
+    "chunk_id": "refund_policy_s11_c0",
+    "text": "Refund Method\n\nApproved refunds are processed using one of the following methods:\n\n* Original payment method (preferred)\n* Store credit (if original method is unavailable or expired)\n\nRefunds **cannot** be redirected to a different bank account or payment method upon request.\n\n---",
+    "doc_type": "refund_policy",
+    "filename": "refund_policy.txt",
+    "section_title": "Refund Method",
+    "token_count": 53
+  },
+  {
+    "chunk_id": "refund_policy_s12_c0",
+    "text": "Refund Processing Time\n\nAfter approval:\n\n* Refunds are initiated within **5\u20137 business days**\n* Bank or payment provider processing may take an additional **3\u20135 business days**\n\nThe company is not responsible for delays caused by banks or payment gateways.\n\n---",
+    "doc_type": "refund_policy",
+    "filename": "refund_policy.txt",
+    "section_title": "Refund Processing Time",
+    "token_count": 54
+  },
+  {
+    "chunk_id": "refund_policy_s13_c0",
+    "text": "Partial Refunds\n\nPartial refunds may be issued in cases where:\n\n* Only part of the order qualifies for refund\n* Returned items show signs of use\n* Accessories, manuals, or packaging are missing\n\nThe refund amount is determined after inspection.\n\n---",
+    "doc_type": "refund_policy",
+    "filename": "refund_policy.txt",
+    "section_title": "Partial Refunds",
+    "token_count": 50
+  },
+  {
+    "chunk_id": "refund_policy_s14_c0",
+    "text": "Inspection of Returned Items\n\nFor returns requiring physical pickup:\n\n* Items undergo inspection upon receipt\n* Refund approval is contingent on inspection outcome\n* Inspection failure may result in refund rejection or reduced refund\n\n---",
+    "doc_type": "refund_policy",
+    "filename": "refund_policy.txt",
+    "section_title": "Inspection of Returned Items",
+    "token_count": 42
+  },
+  {
+    "chunk_id": "refund_policy_s15_c0",
+    "text": "Rejected Refund Requests\n\nIf a refund request is rejected:\n\n* The reason for rejection will be communicated\n* The item may be returned to the customer\n* No refund will be processed\n\n---",
+    "doc_type": "refund_policy",
+    "filename": "refund_policy.txt",
+    "section_title": "Rejected Refund Requests",
+    "token_count": 39
+  },
+  {
+    "chunk_id": "refund_policy_s16_c0",
+    "text": "Dispute Resolution\n\nCustomers may dispute a refund decision by:\n\n* Contacting customer support within **14 days** of rejection\n* Providing additional clarification or evidence\n\nDecisions after dispute review are final.\n\n---",
+    "doc_type": "refund_policy",
+    "filename": "refund_policy.txt",
+    "section_title": "Dispute Resolution",
+    "token_count": 41
+  },
+  {
+    "chunk_id": "refund_policy_s17_c0",
+    "text": "Policy Modifications\n\nThe company reserves the right to:\n\n* Modify this Refund Policy at any time\n* Apply updated terms to future purchases\n\nThe latest version will always be available on the platform.\n\n---",
+    "doc_type": "refund_policy",
+    "filename": "refund_policy.txt",
+    "section_title": "Policy Modifications",
+    "token_count": 40
+  },
+  {
+    "chunk_id": "refund_policy_s18_c0",
+    "text": "End of Refund Policy\n\n---",
+    "doc_type": "refund_policy",
+    "filename": "refund_policy.txt",
+    "section_title": "End of Refund Policy",
+    "token_count": 7
+  },
+  {
+    "chunk_id": "shipping_policy_s0_c0",
+    "text": "1 Domestic Shipping\n\nWe ship products to all **serviceable domestic locations** supported by our logistics partners.\n\nDelivery availability depends on:\n\n* Product type\n* Delivery address\n* Pin code serviceability\n\n---",
+    "doc_type": "shipping_policy",
+    "filename": "shipping_policy.txt",
+    "section_title": "1 Domestic Shipping",
+    "token_count": 41
+  },
+  {
+    "chunk_id": "shipping_policy_s1_c0",
+    "text": "2 International Shipping\n\nInternational shipping is available only for:\n\n* Selected products\n* Selected countries\n\nInternational shipping availability is displayed on the product page or at checkout.\n\n---",
+    "doc_type": "shipping_policy",
+    "filename": "shipping_policy.txt",
+    "section_title": "2 International Shipping",
+    "token_count": 33
+  },
+  {
+    "chunk_id": "shipping_policy_s2_c0",
+    "text": "Order Processing Time\n\n* Orders are processed within **24\u201348 business hours** after successful payment confirmation.\n* Orders placed on **weekends or public holidays** are processed on the next business day.\n* Processing time does **not** include shipping or delivery time.\n\nOrders requiring manual verification or customization may take longer.\n\n---",
+    "doc_type": "shipping_policy",
+    "filename": "shipping_policy.txt",
+    "section_title": "Order Processing Time",
+    "token_count": 64
+  },
+  {
+    "chunk_id": "shipping_policy_s3_c0",
+    "text": "Shipping Methods\n\nAvailable shipping methods may include:\n\n* Standard Shipping\n* Express Shipping (if supported for the location and product)\n\nThe available method and estimated delivery timeline are shown during checkout.\n\n---",
+    "doc_type": "shipping_policy",
+    "filename": "shipping_policy.txt",
+    "section_title": "Shipping Methods",
+    "token_count": 38
+  },
+  {
+    "chunk_id": "shipping_policy_s4_c0",
+    "text": "Estimated Delivery Time\n\nEstimated delivery timelines are as follows:\n\n Standard Shipping is done in **3\u20137 business days** \n Express Shipping is done in **1\u20133 business days** \n\nDelivery timelines are **estimates only** and may vary due to external factors.\n\n---",
+    "doc_type": "shipping_policy",
+    "filename": "shipping_policy.txt",
+    "section_title": "Estimated Delivery Time",
+    "token_count": 54
+  },
+  {
+    "chunk_id": "shipping_policy_s5_c0",
+    "text": "Shipping Charges\n\n* Shipping charges, if applicable, are clearly displayed at checkout before payment.\n* Free shipping may be offered:\n\n * On orders above a specified value\n * During promotional periods\n\nShipping charges are **non-refundable** once the order is shipped.\n\n---",
+    "doc_type": "shipping_policy",
+    "filename": "shipping_policy.txt",
+    "section_title": "Shipping Charges",
+    "token_count": 54
+  },
+  {
+    "chunk_id": "shipping_policy_s6_c0",
+    "text": "Shipment Tracking\n\n* Once an order is shipped, a **tracking ID** is generated.\n* Tracking details are shared via:\n\n * Email\n * SMS\n * Order details page\n\nTracking updates depend on the logistics partner and may not be real-time.\n\n---",
+    "doc_type": "shipping_policy",
+    "filename": "shipping_policy.txt",
+    "section_title": "Shipment Tracking",
+    "token_count": 52
+  },
+  {
+    "chunk_id": "shipping_policy_s7_c0",
+    "text": "Delivery Attempts\n\n* Delivery partners typically attempt delivery **up to 2\u20133 times**.\n* If delivery fails due to:\n\n * Customer unavailability\n * Incorrect address\n * Incomplete contact details\n\nThe shipment may be returned to origin.\n\n---",
+    "doc_type": "shipping_policy",
+    "filename": "shipping_policy.txt",
+    "section_title": "Delivery Attempts",
+    "token_count": 50
+  },
+  {
+    "chunk_id": "shipping_policy_s8_c0",
+    "text": "Delayed Deliveries\n\nDelays may occur due to:\n\n* Weather conditions\n* Natural disasters\n* Logistics disruptions\n* Regulatory restrictions\n* High demand periods (sales, festivals)\n\nThe company is not liable for delays caused by factors beyond its control.\n\n---",
+    "doc_type": "shipping_policy",
+    "filename": "shipping_policy.txt",
+    "section_title": "Delayed Deliveries",
+    "token_count": 51
+  },
+  {
+    "chunk_id": "shipping_policy_s9_c0",
+    "text": "1 Undelivered Orders\n\nIf an order is not delivered within the estimated timeframe:\n\n* Customers may contact support\n* An investigation with the logistics partner is initiated\n\n---",
+    "doc_type": "shipping_policy",
+    "filename": "shipping_policy.txt",
+    "section_title": "1 Undelivered Orders",
+    "token_count": 34
+  },
+  {
+    "chunk_id": "shipping_policy_s10_c0",
+    "text": "2 Lost Shipments\n\nIf a shipment is confirmed as lost:\n\n* A replacement or refund may be issued\n* Resolution is subject to verification and internal review\n\n---",
+    "doc_type": "shipping_policy",
+    "filename": "shipping_policy.txt",
+    "section_title": "2 Lost Shipments",
+    "token_count": 33
+  },
+  {
+    "chunk_id": "shipping_policy_s11_c0",
+    "text": "Delivery Confirmation\n\nDelivery is considered complete when:\n\n* The product is marked as delivered by the logistics partner\n* The product is handed over at the delivery address\n\nThe company is not responsible for loss after confirmed delivery.\n\n---",
+    "doc_type": "shipping_policy",
+    "filename": "shipping_policy.txt",
+    "section_title": "Delivery Confirmation",
+    "token_count": 44
+  },
+  {
+    "chunk_id": "shipping_policy_s12_c0",
+    "text": "Address Accuracy\n\nCustomers are responsible for providing:\n\n* Correct delivery address\n* Accurate contact details\n\nOrders delivered to incorrect addresses due to customer error are not eligible for refunds.\n\n---",
+    "doc_type": "shipping_policy",
+    "filename": "shipping_policy.txt",
+    "section_title": "Address Accuracy",
+    "token_count": 36
+  },
+  {
+    "chunk_id": "shipping_policy_s13_c0",
+    "text": "Damaged Packages During Delivery\n\nIf the outer package appears damaged:\n\n* Customers are advised to inspect before accepting delivery\n* Any visible damage should be reported immediately\n\nAcceptance of delivery indicates the package was received in acceptable condition.\n\n---",
+    "doc_type": "shipping_policy",
+    "filename": "shipping_policy.txt",
+    "section_title": "Damaged Packages During Delivery",
+    "token_count": 46
+  },
+  {
+    "chunk_id": "shipping_policy_s14_c0",
+    "text": "Shipping Restrictions\n\nCertain products may be subject to:\n\n* Regional restrictions\n* Regulatory shipping limitations\n* Carrier-specific constraints\n\nSuch restrictions are communicated at checkout where applicable.\n\n---",
+    "doc_type": "shipping_policy",
+    "filename": "shipping_policy.txt",
+    "section_title": "Shipping Restrictions",
+    "token_count": 34
+  },
+  {
+    "chunk_id": "shipping_policy_s15_c0",
+    "text": "Policy Changes\n\nThe company reserves the right to:\n\n* Update or modify this Shipping Policy at any time\n* Apply revised terms to future orders\n\nThe latest version will be published on the platform.\n\n---",
+    "doc_type": "shipping_policy",
+    "filename": "shipping_policy.txt",
+    "section_title": "Policy Changes",
+    "token_count": 40
+  },
+  {
+    "chunk_id": "shipping_policy_s16_c0",
+    "text": "End of Shipping Policy\n\n---",
+    "doc_type": "shipping_policy",
+    "filename": "shipping_policy.txt",
+    "section_title": "End of Shipping Policy",
+    "token_count": 6
+  }
+]

@@ -1,0 +1,195 @@
+
+
+This Shipping Policy describes the order processing timelines, delivery methods, charges, and conditions governing the shipment of products purchased on the platform.
+
+---
+
+## 1. Shipping Coverage
+
+### 1.1 Domestic Shipping
+
+We ship products to all **serviceable domestic locations** supported by our logistics partners.
+
+Delivery availability depends on:
+
+* Product type
+* Delivery address
+* Pin code serviceability
+
+---
+
+### 1.2 International Shipping
+
+International shipping is available only for:
+
+* Selected products
+* Selected countries
+
+International shipping availability is displayed on the product page or at checkout.
+
+---
+
+## 2. Order Processing Time
+
+* Orders are processed within **24–48 business hours** after successful payment confirmation.
+* Orders placed on **weekends or public holidays** are processed on the next business day.
+* Processing time does **not** include shipping or delivery time.
+
+Orders requiring manual verification or customization may take longer.
+
+---
+
+## 3. Shipping Methods
+
+Available shipping methods may include:
+
+* Standard Shipping
+* Express Shipping (if supported for the location and product)
+
+The available method and estimated delivery timeline are shown during checkout.
+
+---
+
+## 4. Estimated Delivery Time
+
+Estimated delivery timelines are as follows:
+
+ Standard Shipping is done in **3–7 business days** 
+ Express Shipping is done in **1–3 business days** 
+
+Delivery timelines are **estimates only** and may vary due to external factors.
+
+---
+
+## 5. Shipping Charges
+
+* Shipping charges, if applicable, are clearly displayed at checkout before payment.
+* Free shipping may be offered:
+
+  * On orders above a specified value
+  * During promotional periods
+
+Shipping charges are **non-refundable** once the order is shipped.
+
+---
+
+## 6. Shipment Tracking
+
+* Once an order is shipped, a **tracking ID** is generated.
+* Tracking details are shared via:
+
+  * Email
+  * SMS
+  * Order details page
+
+Tracking updates depend on the logistics partner and may not be real-time.
+
+---
+
+## 7. Delivery Attempts
+
+* Delivery partners typically attempt delivery **up to 2–3 times**.
+* If delivery fails due to:
+
+  * Customer unavailability
+  * Incorrect address
+  * Incomplete contact details
+
+The shipment may be returned to origin.
+
+---
+
+## 8. Delayed Deliveries
+
+Delays may occur due to:
+
+* Weather conditions
+* Natural disasters
+* Logistics disruptions
+* Regulatory restrictions
+* High demand periods (sales, festivals)
+
+The company is not liable for delays caused by factors beyond its control.
+
+---
+
+## 9. Undelivered or Lost Shipments
+
+### 9.1 Undelivered Orders
+
+If an order is not delivered within the estimated timeframe:
+
+* Customers may contact support
+* An investigation with the logistics partner is initiated
+
+---
+
+### 9.2 Lost Shipments
+
+If a shipment is confirmed as lost:
+
+* A replacement or refund may be issued
+* Resolution is subject to verification and internal review
+
+---
+
+## 10. Delivery Confirmation
+
+Delivery is considered complete when:
+
+* The product is marked as delivered by the logistics partner
+* The product is handed over at the delivery address
+
+The company is not responsible for loss after confirmed delivery.
+
+---
+
+## 11. Address Accuracy
+
+Customers are responsible for providing:
+
+* Correct delivery address
+* Accurate contact details
+
+Orders delivered to incorrect addresses due to customer error are not eligible for refunds.
+
+---
+
+## 12. Damaged Packages During Delivery
+
+If the outer package appears damaged:
+
+* Customers are advised to inspect before accepting delivery
+* Any visible damage should be reported immediately
+
+Acceptance of delivery indicates the package was received in acceptable condition.
+
+---
+
+## 13. Shipping Restrictions
+
+Certain products may be subject to:
+
+* Regional restrictions
+* Regulatory shipping limitations
+* Carrier-specific constraints
+
+Such restrictions are communicated at checkout where applicable.
+
+---
+
+## 14. Policy Changes
+
+The company reserves the right to:
+
+* Update or modify this Shipping Policy at any time
+* Apply revised terms to future orders
+
+The latest version will be published on the platform.
+
+---
+
+### End of Shipping Policy
+
+---
+

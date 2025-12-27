@@ -1,0 +1,259 @@
+﻿Nvidia Corporation
+
+1. Overview
+
+Nvidia Corporation (/ɛnˈvɪdiə/ en-VID-ee-ə) is an American technology company headquartered in Santa Clara, California. Founded in 1993 by Jensen Huang (president and CEO), Chris Malachowsky, and Curtis Priem, it develops graphics processing units (GPUs), systems on chips (SoCs), and application programming interfaces (APIs) for data science, high-performance computing, and mobile and automotive applications.
+
+Originally focused on GPUs for video gaming, Nvidia broadened their use into other markets, including artificial intelligence (AI), professional visualization, and supercomputing. The company's product lines include GeForce GPUs for gaming and creative workloads, and professional GPUs for edge computing, scientific research, and industrial applications. As of the first quarter of 2025, Nvidia held a 92% share of the discrete desktop and laptop GPU market.
+
+Market Dominance and AI Boom
+
+In the early 2000s, the company invested over a billion dollars to develop CUDA, a software platform and API that enabled GPUs to run massively parallel programs for a broad range of compute-intensive applications. As a result, as of 2025, Nvidia controlled more than 80% of the market for GPUs used in training and deploying AI models, and provided chips for over 75% of the world's TOP500 supercomputers.
+
+In 2023, Nvidia became the seventh U.S. company to reach a US$1 trillion valuation. In 2025, it became the first to surpass US$4 trillion in market capitalization, driven by rising global demand for data center hardware in the midst of the AI boom. For its strength, size and market capitalization, Nvidia has been selected to be one of Bloomberg's "Magnificent Seven".
+
+2. Corporate Information
+
+Company Type: Public
+
+Traded as: * Nasdaq: NVDA
+
+Nasdaq-100 component
+
+DJIA component
+
+S&P 100 component
+
+S&P 500 component
+
+Industry: Semiconductors
+
+Founded: April 5, 1993, in Sunnyvale, California, U.S.
+
+Founders: Jensen Huang, Chris Malachowsky, Curtis Priem
+
+Headquarters: Santa Clara, California, U.S.
+
+Area served: Worldwide
+
+Key people: Jensen Huang (President and CEO), Bill Dally (Chief Scientist)
+
+Revenue: US$130.5 billion (FY25)
+
+Operating income: US$81.5 billion (FY25)
+
+Net income: US$72.9 billion (FY25)
+
+Total assets: US$111.6 billion (FY25)
+
+Total equity: US$79.3 billion (FY25)
+
+Number of employees: 36,000 (FY25)
+
+Website: nvidia.com
+
+3. History
+
+3.1 Founding (1993)
+
+Nvidia was founded on April 5, 1993, by Jensen Huang, a Taiwanese-American electrical engineer previously at LSI Logic and AMD; Chris Malachowsky, an engineer from Sun Microsystems; and Curtis Priem, formerly of IBM and Sun Microsystems. In late 1992, the three men agreed to start the company in a meeting at a Denny's roadside diner on Berryessa Road in East San Jose.
+
+The founders envisioned graphics-based processing as the best trajectory for tackling challenges that had eluded general-purpose computing methods. Video games served as their "killer app"—a flywheel to reach large markets funding huge R&D to solve massive computational problems. The company was born with $40,000 in the bank and subsequently received $20 million of venture capital funding from Sequoia Capital and others.
+
+3.2 The Company Name
+
+Nvidia initially had no name. Early ideas included "Primal Graphics," "Huaprimal," and "NVision" (which was already taken by a toilet paper manufacturer). The name "Nvidia" comes from "invidia," the Latin word for "envy."
+
+3.3 First Graphics Accelerator (NV1)
+
+Nvidia's first graphics accelerator, the NV1, was designed to process quadrilateral primitives. However, when Microsoft introduced DirectX, it chose to support only triangle primitives. Consequently, the NV1 failed to gain traction.
+
+3.4 Partnership with Sega and Financial Crisis
+
+Nvidia entered a partnership with Sega for the Dreamcast console but realized their technology was lagging. Sega's president, Shoichiro Irimajiri, decided to choose another vendor but persuaded Sega's management to invest $5 million into Nvidia. This funding "gave the company six months to live." In 1996, Huang laid off more than half the staff, focusing on a triangle-optimized product: the RIVA 128.
+
+3.5 The Pivot and Public Offering (1999)
+
+By August 1997, Nvidia had only enough money for one month's payroll. This gave rise to the unofficial motto: "Our company is thirty days from going out of business." However, Nvidia sold a million RIVA 128 units within four months.
+
+Nvidia went public on January 22, 1999. Later that year, it released the GeForce 256 (NV10), marketed as the world's first GPU, introducing onboard transformation and lighting (T&L).
+
+3.6 Acquisitions and Early 2000s Growth
+
+2000: Acquired assets of rival 3dfx.
+
+2001: Selected to replace Enron in the S&P 500.
+
+2002: Acquired Exluna.
+
+2003: Acquired MediaQ for $70 million.
+
+2004: Assisted Sony with the PlayStation 3 graphics processor (RSX); acquired iReady.
+
+2005: Acquired ULI Electronics.
+
+2006: Acquired Hybrid Graphics.
+
+4. Eras of Development
+
+4.1 2007–2014: Diversification
+
+In 2007, Forbes named Nvidia "Company of the Year." Acquisitions included PortalPlayer and Ageia (developer of the PhysX engine). During this era, the company faced class action lawsuits over "abnormal failure rates" in mobile chipsets, reaching a settlement in 2010.
+
+2011: Released Tegra 3, the first quad-core mobile CPU.
+
+2013: Unveiled Tegra 4 and the Nvidia Shield handheld console.
+
+2014: Diversified into gaming, automotive electronics, and mobile devices.
+
+4.2 2016–2018: Pascal and AI
+
+Nvidia unveiled the GeForce 10 series based on the Pascal microarchitecture. Partnerships with Toyota and Baidu focused on AI platforms for autonomous vehicles.
+
+2017: Released Titan V.
+
+2018: Integrated Tesla P4 cards into Google Cloud AI; released RTX 2080.
+
+Mac Driver Dispute: A rift formed between Apple and Nvidia regarding macOS Mojave drivers, leading to Apple users having to switch to AMD Radeon cards.
+
+4.3 2019: Acquisition of Mellanox
+
+Nvidia announced a $6.9 billion deal to buy Mellanox Technologies to expand its footprint in high-performance computing.
+
+4.4 2020–2023: The AI Shift
+
+2020: Acquired Cumulus Networks; announced the Ampere GPU architecture.
+
+Arm Takeover Attempt: Nvidia announced a $40 billion deal to buy Arm from SoftBank, but the transaction was terminated in 2022 due to "significant regulatory challenges."
+
+Infrastructure: Launched the Cambridge-1 supercomputer in 2021; opened new headquarters buildings "Endeavor" and "Voyager."
+
+4.5 2024–2025: The Blackwell Era and $4 Trillion Mark
+
+Blackwell: In March 2024, Nvidia announced the Blackwell microarchitecture.
+
+Valuation Milestones: Surpassed $2 trillion in March 2024 and $4 trillion in July 2025.
+
+DeepSeek Impact: In January 2025, Nvidia saw a $600 billion one-day loss in market cap after the Chinese AI startup DeepSeek released an advanced model at a significantly lower cost.
+
+Global Demand: By late 2024, Morgan Stanley reported the entire 2025 production of Blackwell chips was sold out.
+
+5. Business Operations
+
+5.1 Fabless Manufacturing
+
+Nvidia uses external suppliers (like TSMC) for all phases of manufacturing (wafer fabrication, assembly, and testing). This allows the company to focus resources on product design, quality assurance, and marketing.
+
+5.2 Leadership
+
+Key management (as of March 2024):
+
+Jensen Huang: Founder, President, and CEO
+
+Chris Malachowsky: Founder and Nvidia Fellow
+
+Colette Kress: EVP and CFO
+
+Jay Puri: EVP of Worldwide Field Operations
+
+Debora Shoquist: EVP of Operations
+
+Tim Teter: EVP, General Counsel and Secretary
+
+5.3 Board of Directors
+
+The board includes notable figures like Rob Burgess, Tench Coxe, John Dabiri, Persis Drell, Dawn Hudson, Ellen Ochoa, and Mark Stevens.
+
+5.4 Financial Data
+
+Sales by Business Unit (2023):
+
+Compute & Networking: $47.4 billion (77.8%)
+
+Graphics: $13.5 billion (22.2%)
+
+Sales by Region (2023):
+
+United States: 44.3%
+
+Taiwan: 22.0%
+
+China: 16.9%
+
+Other: 16.8%
+
+10-Year Financials (2016–2025 Highlights):
+
+2016: $5.01B Revenue | $614M Net Income | 9,227 Employees
+
+2020: $10.92B Revenue | $2.80B Net Income | 13,775 Employees
+
+2025: $130.50B Revenue | $72.88B Net Income | 36,000 Employees
+
+6. Products and Ecosystem
+
+6.1 Product Families
+
+GeForce: Consumer graphics
+
+RTX: Professional visual computing (replacing Quadro)
+
+Tegra: SoCs for mobile devices
+
+Tesla/Datacenter: GPUs for scientific fields (A100, H100)
+
+Grace: Datacenter/server CPU
+
+Drive: Autonomous vehicle hardware/software
+
+BlueField: Data processing units (DPUs)
+
+Shield: Gaming hardware range
+
+6.2 GPU Technology Conference (GTC)
+
+GTC is a series of technical conferences started in 2009. Originally focused on GPUs, it has shifted to AI, deep learning, and self-driving cars.
+
+6.3 Deep Learning and Robotics
+
+DGX: A line of supercomputers for deep learning.
+
+Omniverse: A virtual environment for engineers.
+
+Isaac Sim: Simulations for training robots.
+
+Isaac GR00T N1: An open-source foundation model for humanoid robots.
+
+7. Open-Source Software Support
+
+Historically, Nvidia did not publish documentation for its hardware, causing tension with the Linux community (famously criticized by Linus Torvalds). However, in 2022, Nvidia began open-sourcing GPU kernel modules. In 2025, they announced CUDA support for RISC-V.
+
+8. Controversies
+
+8.1 Maxwell Advertising (GTX 970)
+
+Users discovered the GTX 970 could only access 3.5 GB of its 4 GB VRAM at high speeds. This led to a class-action lawsuit and a $30 refund for purchasers.
+
+8.2 GeForce Partner Program
+
+A controversial marketing program canceled in 2018 amid anti-competitive practice complaints.
+
+8.3 Hardware Unboxed Dispute
+
+In 2020, Nvidia briefly banned a tech reviewer for focusing on rasterization instead of ray tracing, but quickly reversed the decision and apologized.
+
+8.4 SEC and Cryptomining
+
+Nvidia paid $5.5 million in 2022 to settle charges that it failed to disclose how much of its gaming revenue growth was driven by cryptomining.
+
+8.5 Geopolitical Issues
+
+China Export Restrictions: U.S. embargoes on advanced chips led Nvidia to create China-specific chips (A800, H20).
+
+H20 Production Halt: In August 2025, Nvidia halted H20 production after Chinese government warnings to domestic firms regarding security concerns.
+
+Shanghai Facility: A proposed facility in Shanghai faced criticism from U.S. senators over national security issues.
+
+8.6 AI Regulation Dispute
+
+In 2025, a public dispute occurred between Jensen Huang and Anthropic CEO Dario Amodei regarding AI regulation and industry "safety" concerns.
