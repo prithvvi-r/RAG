@@ -20,6 +20,3 @@ pypdf
 pathlib
 typing-extensions
 
-# Optional (if using these features)
-numpy
-pandas
